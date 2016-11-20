@@ -1,0 +1,17 @@
+{
+  "name": "day2-P1",
+  "homepage": "https://github.com/waranya1121/day2-P1",
+  "authors": [
+    "waranya <waranya.inchai@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
